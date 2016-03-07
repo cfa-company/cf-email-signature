@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
+
 # Coder Factory HTML Email Footer
 
 ## Instructions
