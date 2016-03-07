@@ -1,5 +1,4 @@
-# cf-email-footer
-Coder Factory HTML Email Footer
+# Coder Factory HTML Email Footer
 
 ## Instructions
 
